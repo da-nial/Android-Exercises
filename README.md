@@ -23,7 +23,7 @@ A simple Faal-e Hafez (Hafez fortune-telling) app.
 
 ## Project 2: Book List
 
-[Aim: Learning Different Layouts and Navigation]
+[Aim: Learning different layouts and navigation]
 
 The book display section of an ebook reader app.
 
