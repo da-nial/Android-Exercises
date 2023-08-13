@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fal\'e Hafez</string>
+    <string name="main_title">فال حافـــظ</string>
+    <string name="main_title_description">گنجینه‌ای با بیش از ۵ شعر</string>
+    <string name="main_image_description">Hafez Tomb</string>
+    <string name="about_title">درباره‌ی این برنامه</string>
+    <string name="about_description">
+        این برنامه به عنوان تمرین دوم درس «برنامه‌نویسی دستگاه‌های سیار» در دانشکده‌ی مهندسی کامپیوتر دانشگاه صنعتی امیرکبیر، در ترم پاییز ۱۴۰۱، به تدریس دکتر شیرعلی شهرضا، توسط دانیال حمدی به شماره‌ی دانشجویی ۹۷۳۱۱۱۱، ۷ ساعت قبل از مهلت تحویل، در آستانه‌ی آزمون میان‌ترم درس داده‌کاوی نوشته شد.
+    </string>
+</resources>

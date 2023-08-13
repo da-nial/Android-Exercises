@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint_search_query">Search</string>
+    <string name="forward_icon">forward icon to select current currency</string>
+</resources>

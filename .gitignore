@@ -1,0 +1,38 @@
+# Gradle related files
+.gradle/
+/build/
+/captures/
+/app/build/
+/app/*/build/
+/*/build/
+/gradle/
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+*.ipr
+*.iws
+/.idea/
+
+# Compiled .class files
+*.class
+
+# Proguard files
+proguard-rules.pro
+proguard-android-optimize.txt
+
+# User-specific configurations
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle Wrapper (useful to have for easy project setup)
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
