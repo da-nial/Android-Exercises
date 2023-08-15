@@ -4,7 +4,7 @@ This repository contains my solutions to the project assignments for the "Mobile
 
 ## Project 4: Weather App
 
-[Aim: Learning how to work communicate with APIs in an Android app]
+[Aim: Learning how to communicate with APIs in an Android app]
 
 A simple weather app that displays current and forecast weather for a selected city.
 
